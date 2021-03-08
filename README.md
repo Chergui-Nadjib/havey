@@ -12,4 +12,5 @@ GNU GENERAL PUBLIC LICENSE 3
 
 ### Requirements
 > colorama
+>
 > setuptools
