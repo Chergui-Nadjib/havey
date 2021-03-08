@@ -5,10 +5,15 @@
 __Module Havey:__ Tool to create menu, colored (background, foreground) text, menu, etc ...
 
 # Installation (Need root privileges)
-
+### If you have you are in windows skip step 2
+#### Downloading:
     git clone https://github.com/Chergui-Nadjib/havey.git
+#### Adding Executable mode to setup.py:
     chmod +x ./havey/setup.py
-    ./havey/setup.py build install
+#### Running Build:
+    ./havey/setup.py build
+#### Running Install:
+    ./havey/setup.py install
 
 # Usage (Top Functions)
 
@@ -30,6 +35,8 @@ __Module Havey:__ Tool to create menu, colored (background, foreground) text, me
 > - Colorama
 >
 > - Setuptools
+> 
+> - Git
 
 # License
 
