@@ -6,7 +6,7 @@ __Module Havey:__ Tool to create menu, colored (background, foreground) text, me
 
 # Installation (Need root privileges)
 ###### Note: if you have you are in windows skip step 1 & 2. Download havey source code, You will get your way if you are developer.
-[HAVEY ZIP]()
+[Download HAVEY ZIP](https://github.com/Chergui-Nadjib/havey/archive/main.zip)
 #### 1. Downloading:
     git clone https://github.com/Chergui-Nadjib/havey.git
 #### 2.Adding Executable mode to setup.py:
