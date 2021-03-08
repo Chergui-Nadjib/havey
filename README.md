@@ -27,9 +27,9 @@ __Module Havey:__ Tool to create menu, colored (background, foreground) text, me
 # Requirements
 > - Python
 >
-> - colorama
+> - Colorama
 >
-> - setuptools
+> - Setuptools
 
 # License
 
