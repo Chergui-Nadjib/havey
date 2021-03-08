@@ -1,4 +1,4 @@
-[img](https://distrowatch.com/images/cpxtu/dwbanner.png)
+![img](https://distrowatch.com/images/cpxtu/dwbanner.png "Title")
 
 # Havey
 
