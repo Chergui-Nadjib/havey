@@ -7,3 +7,9 @@ __Module Havey:__ Tool to create menu, colored (background, foreground) text, me
 ### Usage
 
 ### License
+
+GNU GENERAL PUBLIC LICENSE 3
+
+### Requirements
+> colorama
+> setuptools
