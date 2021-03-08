@@ -8,7 +8,7 @@ __Module Havey:__ Tool to create menu, colored (background, foreground) text, me
 
 ### License
 
-GNU GENERAL PUBLIC LICENSE 3
+[Link display text - URL](https://www.gnu.org/licenses/gpl-3.0.txt)
 
 ### Requirements
 > colorama
