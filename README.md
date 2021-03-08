@@ -6,9 +6,9 @@ __Module Havey:__ Tool to create menu, colored (background, foreground) text, me
 
 ### Installation
 
-__[YOU ~]$ git clone https://github.com/Chergui-Nadjib/havey.git__
-__[YOU ~]$ chmod +x ./havey/setup.py__
-__[YOU ~]$ ./havey/setup.py build install__
+__[YOU ~]$ git clone https://github.com/Chergui-Nadjib/havey.git
+[YOU ~]$ chmod +x ./havey/setup.py
+[YOU ~]$ ./havey/setup.py build install__
 
 ### Usage
 
