@@ -9,7 +9,7 @@ __Module Havey:__ Tool to create menu, colored (background, foreground) text, me
 [Download HAVEY ZIP](https://github.com/Chergui-Nadjib/havey/archive/main.zip)
 #### 1. Downloading & Entring Code Dir:
     git clone https://github.com/Chergui-Nadjib/havey.git; cd havey
-#### 2.Adding Executable mode to setup.py:
+#### 2 .Adding Executable mode to setup.py:
     chmod +x ./setup.py
 #### 3. Running Build:
     ./setup.py build
