@@ -6,6 +6,8 @@ __Module Havey:__ Tool to create menu, colored (background, foreground) text, me
 
 ### Usage
 
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
+
 ### License
 
 [Read on gnu.org](https://www.gnu.org/licenses/gpl-3.0.txt)
