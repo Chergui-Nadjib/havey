@@ -16,7 +16,7 @@ __Module Havey:__ Tool to create menu, colored (background, foreground) text, me
 #### 4. Running Install:
     ./setup.py install
 
-# Usage (Top Functions)
+# Usage
 
 > __bcolored:__ Return a colored background text.
 >
@@ -29,6 +29,8 @@ __Module Havey:__ Tool to create menu, colored (background, foreground) text, me
 > __progress:__ Animated Dots.
 > 
 > ![img](https://lh3.googleusercontent.com/0MBKP3drq8F8N-Alzaqi3BzzEvsT_4kUE9SIZjG2EXw9mGKde9-VSWPDg1gNXK2iptMn19JT_1tnXQF7DLsxQuNUUWJxZHOdwDl4-jhdl43t9HDWEd_I_qOvgugJyBOHahM75xb5D5pGvcSZz7eYpSfUgHO1TiEVKqHD76Yy5g8FYdgzYmSWWVe5X78SNRPxvgW5rSS4mCFPWhJydsF8I6Q4N1Dtvu2IQPBWPX6XMlpGXdQ6L1XB2H5UqBerD_Spff_6IY8bgWV-crTXQ2BZdMsOxc_9LyaPfYJWNiSYcr9TKjtT7ELgn6uXUQJZlR9XCXMtGhflP68xmkjfHN1vZuwM6WbKRO9L5v_1FgvFvj9VKYaBXl3_Q6PGSLNTu4H6oP0CFi00uvcOKf6SYhVr-RX4t5X0TpuPmOFk8uiGxYl_q4LeW4QFZWleIIQR-rlJ6i3eSHF6RPYcAaE-A3OItbHRcP4PxxYO8Jd6vCVIyG2YI0Hw7jnvlGfYECORj8_G1jC9prLkG7-M7hWMoeWDYbMRZfmyeXg7LJqnG1WcKtnex45esjMciG4JjFjbryZypQNRoTWWD1SR4AUfmKO0SahUZlere_i9dweajNV06K39Vu_YzfCUo1h38GYXX7COeJ-YCUdma7hD_Fqtm-9DjE8FayEDrvSRYBsCYRab8orXgsToa2g5z8N-CU5N=w644-h172-no?authuser=0)
+
+###### Note: This readme file in progress there a undocumented functions. sorry.
 
 # Requirements
 > - Python
