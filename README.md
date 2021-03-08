@@ -7,8 +7,8 @@ __Module Havey:__ Tool to create menu, colored (background, foreground) text, me
 ### Installation
 
 __[YOU ~]$ git clone https://github.com/Chergui-Nadjib/havey.git__
-Cloning into 'havey'...
-remote: Enumerating objects: 62, done.
+*Cloning into 'havey'...*
+*remote: Enumerating objects: 62, done.*
 remote: Counting objects: 100% (62/62), done.
 remote: Compressing objects: 100% (61/61), done.
 remote: Total 62 (delta 28), reused 0 (delta 0), pack-reused 0
