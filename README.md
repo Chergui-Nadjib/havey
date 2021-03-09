@@ -1,4 +1,4 @@
-![img](img/logo "Logo")
+![img](img/logo.png "Logo")
 
 # Introdution
 
