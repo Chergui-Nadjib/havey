@@ -31,6 +31,8 @@ __Module Havey:__ Tool to create menu, colored (background, foreground) text, me
 > ![img](img/progress.gif "progress")
 > 
 > __welcome:__ Stars border.
+> 
+> ![img](img/welcome.png "welcome")
 
 ###### Note: This readme file in progress there a undocumented functions. sorry.
 
