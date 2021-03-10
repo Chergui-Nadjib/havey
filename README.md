@@ -29,6 +29,8 @@ __Module Havey:__ Tool to create menu, colored (background, foreground) text, me
 > __progress:__ Animated Dots.
 > 
 > ![img](img/progress.gif "progress")
+> 
+> __welcome:__ Stars border.
 
 ###### Note: This readme file in progress there a undocumented functions. sorry.
 
