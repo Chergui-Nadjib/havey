@@ -16,7 +16,7 @@ __Module Havey:__ Tool to create menu, colored (background, foreground) text, me
 #### 4. Running Install:
     ./setup.py install
 
-# Usage
+# Help
 
 > __bcolored:__ Return a colored background text.
 > 
