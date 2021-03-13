@@ -19,52 +19,28 @@ __Module Havey:__ Tool to create menu, colored (background, foreground) text, me
 # Usage
 
 > __bcolored:__ Return a colored background text.
->
-> ![img](img/redback.png "redback")
 > 
 > __colored:__ Return a colored foreground text.
 > 
-> ![img](img/redfore.png "redfore")
-> 
 > __cwelcome:__ Colored Stars border.
-> 
-> ![img](img/cwelcome.png "cwelcome")
 > 
 > __error:__ Print error red text.
 > 
-> ![img](img/error.png "error")
-> 
 > __icmain_menu:__ Input colored main_menu.
 >
-> ![img](img/icmain_menu.png "icmain_menu")
->
 > __imain_menu:__ Input main_menu.
->
-> ![img](img/imain_menu.png)
 >
 > __init:__ Fix corrupted text windows.
 > 
 > __main_menu:__ Generate main_menu.
 > 
-> ![img](img/main_menu.png "main_menu")
-> 
 > __progress:__ Animated Dots.
-> 
-> ![img](img/progress.gif "progress")
 > 
 > __unicolored:__ Colored foreground - background text.
 > 
-> ![img](img/unicolored.png "unicolored")
-> 
 > __warning:__ Yellow colored warning text.
 > 
-> ![img](img/warning.png "warning")
-> 
 > __welcome:__ Stars border.
-> 
-> ![img](img/welcome.png "welcome")
-
-###### Note: This readme file in progress there a undocumented functions. sorry.
 
 # Requirements
 > - Python
